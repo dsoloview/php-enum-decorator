@@ -1,0 +1,23 @@
+{
+  "name": "enum/decorator",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "dmitrijsolovev",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "php": "^8.2"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+
+
+}
